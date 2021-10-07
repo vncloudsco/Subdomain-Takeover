@@ -1,0 +1,4 @@
+GMAIL_USERNAME='notify@gmail.com'
+GMAIL_PASSWORD='password1password1'
+ALERT_ADDRESS='notifyme@gmail.com'
+CLOUDFRONT_ID='EAGH452AHEA'
